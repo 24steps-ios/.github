@@ -4,8 +4,6 @@
 
 ## 📚 Bootcamp Content   [![Apple](https://img.shields.io/badge/Apple-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com) + [![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org) + [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
 
-> 
-
 ### 1. Learn [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) Framework for UI Tests
 
 Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) framework for [![UI Testing](https://img.shields.io/badge/iOS-UI_Testing-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest/user_interface_tests)
@@ -18,9 +16,11 @@ Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-X
 - 🚀 Understanding `XCUIApplication` lifecycle  
 - 🏗 Building a modular test framework using the [Page Object Pattern](https://martinfowler.com/bliki/PageObject.html)  
 - ⚙️ Using launch arguments and environment variables for flexible test setups  
-- 🧪 Creating test plans and tracking test coverage  
-- 💡 Setting up a CI pipeline using [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to run UI Tests automatically on pull requests and nighly 
-- 📄 Documenting code using [![DocC](https://img.shields.io/badge/Swift-DocC-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/docc)  
+- 🧪 Creating test plans and tracking test coverage
+- 📄 Documenting code using [![DocC](https://img.shields.io/badge/Swift-DocC-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/docc)    
+- 💡 Setting up a CI pipeline using [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to run UI Tests automatically on pull requests and nighly
+  - Adding HTML [![XCTestHTMLReport](https://img.shields.io/badge/iOS-XCTestHTMLReport-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://github.com/marketplacer/xctest-html-report) to [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+  - Sending automative message from [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to the [![Slack](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4AB197)](https://slack.com/)
 - ✨ **Bonus**: Implementing a [Fluent Architecture](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/) for UI Tests
 
 ### 2. Internship Preparation
@@ -41,17 +41,21 @@ Sharpen your coding and problem-solving skills with:
 - Logic and test design questions
 - How to explain your testing strategy during an interview
 
-## Tools we gonna use 
-[![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=ios&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit)
-[![SwiftUI](https://img.shields.io/badge/iOS-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/swiftui)
-[![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
-[![Core Data](https://img.shields.io/badge/iOS-Core_Data-informational?style=flat&logo=coredata&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/coredata)
-[![CocoaPods](https://img.shields.io/badge/iOS-CocoaPods-informational?style=flat&logo=cocoapods&logoColor=white&color=4AB197)](https://cocoapods.org/)
-[![Firebase](https://img.shields.io/badge/iOS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)](https://firebase.google.com/)
-[![Realm](https://img.shields.io/badge/iOS-Realm-informational?style=flat&logo=realm&logoColor=white&color=4AB197)](https://realm.io/)
-[![Fastlane](https://img.shields.io/badge/iOS-Fastlane-informational?style=flat&logo=fastlane&logoColor=white&color=4AB197)](https://fastlane.tools/)
-[![Swift Package Manager](https://img.shields.io/badge/iOS-SPM-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org/package-manager/)
-[![Xcode](https://img.shields.io/badge/iOS-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=4AB197)](https://developer.apple.com/xcode/)
+## Tools We Gonna Use
+
+[![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=ios&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit)  
+[![SwiftUI](https://img.shields.io/badge/iOS-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/swiftui)  
+[![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)  
+[![Core Data](https://img.shields.io/badge/iOS-Core_Data-informational?style=flat&logo=coredata&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/coredata)  
+[![CocoaPods](https://img.shields.io/badge/iOS-CocoaPods-informational?style=flat&logo=cocoapods&logoColor=white&color=4AB197)](https://cocoapods.org/)  
+[![Firebase](https://img.shields.io/badge/iOS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)](https://firebase.google.com/)  
+[![Realm](https://img.shields.io/badge/iOS-Realm-informational?style=flat&logo=realm&logoColor=white&color=4AB197)](https://realm.io/)  
+[![Fastlane](https://img.shields.io/badge/iOS-Fastlane-informational?style=flat&logo=fastlane&logoColor=white&color=4AB197)](https://fastlane.tools/)  
+[![Swift Package Manager](https://img.shields.io/badge/iOS-SPM-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org/package-manager/)  
+[![Xcode](https://img.shields.io/badge/iOS-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=4AB197)](https://developer.apple.com/xcode/)  
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)  
+[![XCTestHTMLReport](https://img.shields.io/badge/iOS-XCTestHTMLReport-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://github.com/marketplacer/xctest-html-report)  
+[![Slack](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4AB197)](https://slack.com/)
 
 ## 🎯 Take a look some of our video
 1. **🧪[XCUITest] How to start? Lesson 1** - To see the code from this video, check the uiTest/how-to-start branch. [YouTube](https://youtu.be/ATb25pY6Sqo?si=dmzFI1moOG5N1Rb3).
