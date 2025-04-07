@@ -1,8 +1,10 @@
 # 👋 Welcome to 24 Steps iOS Developement Bootcamp!
 
-> Welcome to the iOS Bootcamp repository! This repo serves as a central hub for learning materials, exercises, and resources related to iOS development, focusing on automated testing, internship preparation, and interview readiness.
+> This repo serves as a central hub for learning materials, exercises, and resources related to iOS development, focusing on automated testing, internship preparation, and interview readiness.
 
-## 📚 Bootcamp Content
+## 📚 Bootcamp Content   [![Apple](https://img.shields.io/badge/Apple-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com) + [![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org) + [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
+
+> 
 
 ### 1. Learn [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) Framework for UI Tests
 
@@ -22,10 +24,15 @@ Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-X
 - ✨ **Bonus**: Implementing a [Fluent Architecture](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/) for UI Tests
 
 ### 2. Internship Preparation
-Content tailored to help you succeed in QA-related internships:
-- Resume tips for QA/iOS testing roles
-- Sample tasks and walkthroughs based on real internship experiences
-- Best practices for bug reporting and test documentation
+> 🛠 Hands-on project, build by yourself with guidence! 
+- Build your own automation framework using [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)  
+- Create a set of N+ meaningful UI tests  
+- Integrate with [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to automatically run tests on pull requests and nightly
+
+
+
+
+
 
 ### 3. Coding Tasks for Interviews
 Sharpen your coding and problem-solving skills with:
