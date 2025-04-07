@@ -1,9 +1,38 @@
 # 👋 Welcome to 24 Steps iOS Developement Bootcamp!
 
-## Bootcamp content
-1. Practice with XCTest library for UI Tests
-2. Internship
-3. Coding taks for interviews
+> Welcome to the iOS QA Bootcamp repository! This repo serves as a central hub for learning materials, exercises, and resources related to quality assurance for iOS development, focusing on automated testing, internship preparation, and interview readiness.
+
+## 📚 Bootcamp Content
+
+### 1. Learn [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) Framework for UI Tests
+
+Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) framework for UI testing in iOS apps:
+
+- ✍️ Writing and running UI tests in [![Xcode](https://img.shields.io/badge/Apple-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=4AB197)](https://developer.apple.com/xcode/)  
+- ✅ Assertions and UI element interaction  
+- 🧩 Using protocols and extensions to streamline UI test code  
+- ♿ Adding accessibility identifiers to [![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit) and [![SwiftUI](https://img.shields.io/badge/iOS-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/swiftui) components  
+- 🚀 Understanding `XCUIApplication` lifecycle  
+- 🏗 Building a modular test framework using the [Page Object Pattern](https://martinfowler.com/bliki/PageObject.html)  
+- ⚙️ Using launch arguments and environment variables for flexible test setups  
+- 🧪 Creating test plans and tracking test coverage  
+- 💡 Setting up a CI pipeline using [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to run UI Tests automatically on pull requests  
+- ✨ **Bonus**: Implementing a [Fluent Architecture](https://www.objc.io/issues/23-structuring/fluent-interfaces/) for UI Tests  
+
+
+
+### 2. Internship Preparation
+Content tailored to help you succeed in QA-related internships:
+- Resume tips for QA/iOS testing roles
+- Sample tasks and walkthroughs based on real internship experiences
+- Best practices for bug reporting and test documentation
+
+### 3. Coding Tasks for Interviews
+Sharpen your coding and problem-solving skills with:
+- Sample QA automation tasks typically seen in interviews
+- iOS-focused coding challenges (Swift)
+- Logic and test design questions
+- How to explain your testing strategy during an interview
 
 ## Tools we gonna use 
 [![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=ios&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit)
