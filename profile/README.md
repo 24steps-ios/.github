@@ -1,6 +1,9 @@
 # 👋 Welcome to 24 Steps iOS Developement Bootcamp!
 
-![left-right-human-brain-concept-textured-illustration-creative-left-and-right-part-of-human-brain-emotial-and-logic-parts-concept-with-social-and-business-doodle-illustration-of-left-side-and-art-stockpack-adobe-stock-1536x507](https://github.com/ilia-pavlov/Ilia-Pavlov/assets/68978403/b432588e-c3b7-4232-bb1a-2afd31466687)
+## Bootcamp content
+1. Practice with XCTest library for UI Tests
+2. Internship
+3. Coding taks for interviews
 
 ## Tools we gonna use 
 [![UIKit](https://img.shields.io/badge/iOS-UIKit-informational?style=flat&logo=ios&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/uikit)
