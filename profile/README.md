@@ -1,4 +1,8 @@
 # 👋 Welcome to 24 Steps iOS Developement Bootcamp!
+[![iOS](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/ios/)
+[![iPadOS](https://img.shields.io/badge/Platform-iPadOS-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/ipados/)
+[![tvOS](https://img.shields.io/badge/Platform-tvOS-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/tvos/)
+[![watchOS](https://img.shields.io/badge/Platform-watchOS-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/watchos/)
 
 ## 📚 Bootcamp Content   [![Apple](https://img.shields.io/badge/Apple-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com) + [![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org) + [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
 
