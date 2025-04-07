@@ -4,6 +4,9 @@
 
 ## 📚 Bootcamp Content   [![Apple](https://img.shields.io/badge/Apple-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com) + [![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://swift.org) + [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)
 
+
+
+
 ### 1. Learn [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) Framework for UI Tests
 
 Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest) framework for [![UI Testing](https://img.shields.io/badge/iOS-UI_Testing-informational?style=flat&logo=apple&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest/user_interface_tests)
@@ -23,23 +26,21 @@ Hands-on exercises using Apple’s [![XCTest](https://img.shields.io/badge/iOS-X
   - Sending automative message from [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to the [![Slack](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4AB197)](https://slack.com/)
 - ✨ **Bonus**: Implementing a [Fluent Architecture](https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/) for UI Tests
 
+
+
+
 ### 2. Internship Preparation
 > 🛠 Hands-on project, build by yourself with guidence! 
 - Build your own automation framework using [![XCTest](https://img.shields.io/badge/iOS-XCTest-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://developer.apple.com/documentation/xctest)  
 - Create a set of N+ meaningful UI tests  
 - Integrate with [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) to automatically run tests on pull requests and nightly
 
+ ### 3. Coding Tasks for Interviews
 
-
-
-
-
-### 3. Coding Tasks for Interviews
-Sharpen your coding and problem-solving skills with:
-- Sample QA automation tasks typically seen in interviews
-- iOS-focused coding challenges (Swift)
-- Logic and test design questions
-- How to explain your testing strategy during an interview
+- 🧩 Working with the most useful [![Swift Modifiers](https://img.shields.io/badge/Swift-Modifiers-informational?style=flat&logo=swift&logoColor=white&color=4AB197)](https://docs.swift.org/swift-book/LanguageGuide/Properties.html#ID312)  
+- 🔢 Solving easy and medium-level [![LeetCode](https://img.shields.io/badge/LeetCode-String_&_Integer-informational?style=flat&logo=leetcode&logoColor=white&color=4AB197)](https://leetcode.com/) problems for strings and integers
+  - Of course, we will work with hashmaps -> dictionaries in Swift. 😄
+- 📝 Discussion about interview and test practices
 
 ## Tools We Gonna Use
 
